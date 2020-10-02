@@ -15,4 +15,5 @@ B)https://www.youtube.com/watch?v=tBq3sO1Z-7o&list=PLNyfXcjhOAwOF-7S-ZoW2wuQ6Y-4
 2)crete a github account, and a repository with the format ee242_name_surname ( characters in english)
 
 3) What are the main ide's and tool chains used for programing stm32f407g disco. board.
+4) Find 5 projects implemented with stm32.
 
