@@ -1,0 +1,5 @@
+ringbuffer.c:4:10:RingBuffer_GetFreeSpace	16	static
+ringbuffer.c:14:10:RingBuffer_GetDataLength	16	static
+ringbuffer.c:19:6:RingBuffer_Init	16	static
+ringbuffer.c:24:10:RingBuffer_Read	32	static
+ringbuffer.c:34:9:RingBuffer_Write	32	static

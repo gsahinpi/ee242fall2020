@@ -1,0 +1,6 @@
+main.c:73:5:main	56	static
+main.c:129:6:SystemClock_Config	88	static
+main.c:173:13:MX_GPIO_Init	16	static
+main.c:183:6:myusbttransmit	16	static
+main.c:195:7:mynonstatictxcomplete	16	static
+main.c:209:6:Error_Handler	4	static,ignoring_inline_asm
